@@ -1,1 +1,4 @@
-# Tugas1-202018-Muh.-Najwar-Ramadhan-5TKKO-E
+# Angga Rival Tato 202002 || Universitas Dipa Makassar
+# Keamanan Komputer/Kriftograpi
+# Tugas 1
+
